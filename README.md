@@ -1,5 +1,5 @@
 # mern-user-skeleton
-This MERN stack implementation creates a small web application that lets users register, login, view a home page, and logout. 
+This MERN stack implementation creates a web application that lets users be informed of the Salem Cyber Viking Club.
 
 Configuration
 -------------
